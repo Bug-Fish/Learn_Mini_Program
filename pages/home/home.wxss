@@ -1,0 +1,7 @@
+/* pages/home/home.wxss */
+.title{
+  color: rgb(206, 141, 22);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 44px;
+
+}

@@ -1,0 +1,4 @@
+<!--pages/home/home.wxml-->
+<text class='title'>Hello World!</text>
+<button size='mini'>按钮</button>
+<image src="https://dss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1665144116,2856366959&fm=26&gp=0.jpg"></image>
